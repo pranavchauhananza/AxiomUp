@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="eoJamtL1LUqeEG6O0YAnmA" DesignTimeRectangle="8, 0, 960, 526" FriendlyName="'Bankruptcy -'" FullSelectorArgument="&lt;ctrl name='Bankruptcy - Enter New Matter Details' role='client' /&gt;" FuzzySelectorArgument="&lt;ctrl role='client' automationid='' /&gt;" Guid="5e297807-11a2-4d4a-9b93-0a343d25d481" ScopeSelectorArgument="&lt;wnd app='leap desktop.exe' cls='XTB_WND' title='Bankruptcy - Enter New Matter Details' /&gt;" SearchSteps="FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="165, 105, 102, 26" FriendlyName="'leap desktop.exe'" SearchSteps="Image" TargetType="ImageBased">
+        <imageRef attrName="ImageBase64" xmlns="">0_VH5j-VTiU2rd-NGutSSDA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="InformativeScreenshot" originalValue="9025a0db45c6e349822ad34fb6faa683.png" xmlns="">0tFmm9UodLUWPZ5POTlLOaw</imageRef>
+</TargetAnchorable>

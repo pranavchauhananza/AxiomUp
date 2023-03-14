@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" ContentHash="zw1Nhhz8NE20M7SgJoELbQ" FilePath="C:\Program Files\LEAP Office\Cloud\leap desktop.exe" Selector="&lt;wnd app='leap desktop.exe' cls='XTB_WND' title='Bankruptcy - Enter New Matter Details'/&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0ms0D2tOewUeJk8lEMwpIfw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="a0438dbb0d363c0c38775eee5e5cf367.png" xmlns="">0zNq2fiqFukm51JtwGsADhA</imageRef>
+</TargetApp>

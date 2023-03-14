@@ -1,0 +1,13 @@
+﻿{
+  "Id": "Mx93mURGqEma9JPKHWfrJw",
+  "Reference": "8BAeuyY79Eijo8tZxGguAw/Mx93mURGqEma9JPKHWfrJw",
+  "ParentRef": "8BAeuyY79Eijo8tZxGguAw/K4Oavdo8gkCave6hqV7YAQ",
+  "Name": "Bankruptcy - Enter New Matter Details",
+  "Type": "Screen",
+  "Created": "2023-03-13T08:46:19.2798839Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-13T08:46:19.2798839Z"
+}
